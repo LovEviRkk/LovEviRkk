@@ -1,21 +1,22 @@
+<div style="background-color:#e60000; color:white; padding:20px; border-radius:12px;">
 
----
+<h1>⚡ Love viRk ⚡</h1>
 
-# ⚡ Love viRk ⚡
-
-👋 Hi! I'm **Love viRk**, originally from 🇮🇳 India, now living in 🇮🇹 Italy.  
-🌐 I build modern **Websites** and **Apps** powered by code & creativity.  
+👋 Hi! I'm <strong>Love viRk</strong>, originally from 🇮🇳 India, now living in 🇮🇹 Italy.  
+🌐 I build modern <strong>Websites</strong> and <strong>Apps</strong> powered by code & creativity.  
 🔧 Passionate about clean code, powerful backends, and slick interfaces.
 
-## 🚀 Tech Stack
-```python
+<h2>🚀 Tech Stack</h2>
+
+<pre>
 Languages = ["Python", "Java", "C++"]
 Focus = ["Web Development", "App Development"]
+</pre>
 
-🌈 What I Do
+<h3>🌈 What I Do</h3>
 
-💻 Build dynamic websites & mobile apps
-
-🌍 Work across frontend and backend
-
+💻 Build dynamic websites & mobile apps  
+🌍 Work across frontend and backend  
 📚 Always learning something new in tech
+
+</div>
