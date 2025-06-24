@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/LovEviRkk/LovEviRkk/Avatar.jpg"/>
+  <img src="[https://github.com/LovEviRkk/LovEviRkk/Avatar.jpg](https://github.com/LovEviRkk/LovEviRkk/blob/main/Avatar.jpg)" width="300"/>
 </p>
 
 # ⚡ Love viRk ⚡
