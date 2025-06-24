@@ -1,10 +1,6 @@
 
 ---
 
-<p align="center">
-  <img src="[https://github.com/LovEviRkk/LovEviRkk/Avatar.jpg](https://github.com/LovEviRkk/LovEviRkk/blob/main/Avatar.jpg)"/>
-</p>
-
 # ⚡ Love viRk ⚡
 
 👋 Hi! I'm **Love viRk**, originally from 🇮🇳 India, now living in 🇮🇹 Italy.  
