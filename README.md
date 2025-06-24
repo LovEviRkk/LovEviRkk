@@ -1,4 +1,4 @@
-<div style="background-color:#e60000; color:white; padding:20px; border-radius:12px;">
+<div style="background-color:#FF0000; color:white; padding:20px; border-radius:12px;">
 
 <h1>⚡ Love viRk ⚡</h1>
 
