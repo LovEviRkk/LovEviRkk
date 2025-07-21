@@ -2,7 +2,7 @@
 
 <h1>⚡ Love viRk ⚡</h1>
 
-<iframe src="https://canary.discord.com/widget?id=1396528907888496740&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 👋 Hi! I'm <strong>Love viRk</strong>, originally from 🇮🇳 India, now living in 🇮🇹 Italy.  
 🌐 I build modern <strong>Websites</strong> and <strong>Apps</strong> powered by code & creativity.  
